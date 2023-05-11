@@ -1,6 +1,4 @@
 ﻿using MediatR;
-using System;
-using System.Threading.Tasks;
 using System.Threading;
 using Notes.Application.Interfaces;
 using Microsoft.EntityFrameworkCore;
