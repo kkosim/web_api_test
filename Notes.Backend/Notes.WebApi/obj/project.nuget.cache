@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "E3bnt6f7Ao9WpYYBvcxp6B2WDe6PbkKtMOF5RmHtiQQhsGiCc+BSb7tN5yT7oY9HBC4n0HvTJgQO2XCZXYX9kQ==",
+  "dgSpecHash": "Jl4O8jo9r6cb1QOUW23npnNUM/FVYEK8zN+HPlLdm7x+P5S7gII+sJVNp2Q/40Aa2ZeOTRpAFL/cGnk9cQ14yQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

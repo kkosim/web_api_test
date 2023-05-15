@@ -22,7 +22,7 @@ namespace Notes.Application.Notes.Commands.CreateNote
                 Title = requst.Title,
                 Details = requst.Details,
                 Id = Guid.NewGuid(),
-                CreationDate = DateTime.Now,
+                CreationTime = DateTime.Now,
                 EditDate = null
             };
             await _dbContext.Notes.AddAsync(note, cancellationToken);

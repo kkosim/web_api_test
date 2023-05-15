@@ -591,6 +591,9 @@
       "Notes.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MediatR": "12.0.1"
+        },
         "compile": {
           "bin/placeholder/Notes.Domain.dll": {}
         },
@@ -1388,6 +1391,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "MediatR >= 12.0.1",
       "Microsoft.EntityFrameworkCore.Sqlite >= 7.0.5",
       "Notes.Application >= 1.0.0"
     ]
@@ -1435,6 +1439,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "MediatR": {
+            "target": "Package",
+            "version": "[12.0.1, )"
+          },
           "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
             "version": "[7.0.5, )"

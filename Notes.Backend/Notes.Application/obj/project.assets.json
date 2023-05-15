@@ -275,6 +275,9 @@
       "Notes.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MediatR": "12.0.1"
+        },
         "compile": {
           "bin/placeholder/Notes.Domain.dll": {}
         },

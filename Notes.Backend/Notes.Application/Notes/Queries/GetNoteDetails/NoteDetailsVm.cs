@@ -22,7 +22,7 @@ namespace Notes.Application.Notes.Queries.GetNoteDetails
                 .ForMember(noteVm => noteVm.Id,
                     opt => opt.MapFrom(note => note.Id))
                 .ForMember(noteVm => noteVm.CreationDate,
-                    opt => opt.MapFrom(note => note.CreationDate))
+                    opt => opt.MapFrom(note => note.CreationTime))
                 .ForMember(noteVm => noteVm.EditDate,
                     opt => opt.MapFrom(note => note.EditDate));
 
