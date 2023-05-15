@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4D36btsYyknohMs18L9eSEjIL31k6ZMOXebqN1BrTKBxK6sKabc8lYLuqWT4BO1p0i27z95XJcBhoGjqzA4nVQ==",
+  "dgSpecHash": "cUdobTbb68yRrFPRAp5vF/Nt6YPKefsUHmzuLaEuI7LKgjydEjBPDW10Edv6uLSclxna6xsufEEey3bd/4+npA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
